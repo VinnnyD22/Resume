@@ -1,0 +1,62 @@
+html {
+	background-color: #eee;
+}
+body {
+	margin-left: 150px;
+	margin-right: 150px;
+	border: 2px solid #003366;
+	border-radius: 5px;
+	background-color: white;
+}
+.phone {
+	float: left;
+	display: inline-block;
+	padding-top: 10px;
+	margin-left: 20px;
+}
+.name {
+	display: inline-block;
+	margin-left: 20%
+}
+.email {
+	float: right;
+	display: inline-block;
+	margin-right: 20px;
+	padding-top: 10px;
+}
+section, footer {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.left_list {
+	position: absolute;
+	top: 275px;
+	left: 325px;
+}
+.date {
+	display: inline-block;
+	float: right;
+	margin-top: 0px;
+}
+h4 {
+	display: inline-block;
+	margin-top: 0px;
+}
+.work_experience {
+	margin-top: 0px;
+}
+section {
+	border-bottom: 2px solid grey;
+}
+#divider {
+	height: 20px;
+	background-color: #003366;
+	left: 0px;
+	right: 0px;
+}
+a:hover {
+	color: #003366;
+}
+section h4 {
+	text-decoration: underline;
+}
